@@ -1,0 +1,8 @@
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.imagee img{
+    width: 300px;
+    border-radius: 50%;
+}

@@ -26,7 +26,9 @@ const Home = () => {
         </div>
 
         <div className="description">
-        Hi, I'm Sudhanshu, a Web Developer and React Freak based in Prayagraj.
+            <br />
+            <br />
+        Hi, I'm Sudhanshu kesarwani, a Web Developer and React Freak based in Prayagraj.
         I create Modern & Minimal Websites
         </div>
    </div>

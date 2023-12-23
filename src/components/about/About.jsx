@@ -5,14 +5,20 @@ const About = () => {
   return (
     <div className='about'>
         <div className='skills'>
-            <button>React</button><button>JavaScript</button><button>C++</button><button>MongoDB</button><button>SQL</button>
+            <button className='javascript' >JavaScript</button>
+            <button className='MongoDB'>MongoDB</button>
+            <br />
+            <button className='React'>React</button>
+            <button className='C'>C++</button>
+            <button className='SQL'>SQL</button>
         </div>
 
         <div className="add">
-            <div>
-                Hire Me
+            <div className='add-hire'>
+                *HIRE ME!
             </div>
-            <div>Prayagraj,UP <br /> sudhanshukes65@gmail.com </div>
+            <div className='add-up'>Prayagraj,UP  </div>
+            <div className="add-email">sudhanshukes65@gmail.com</div>
         </div>
         <div className="imagee">
             <img src={web} alt="" />

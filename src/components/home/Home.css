@@ -1,16 +1,17 @@
 .home{
     display: flex;
     /* padding-top: 20px; */
-    margin: 100px 150px;
+    margin: 80px 150px;
     justify-content: space-between;
 
 }
 .heading{
     height: 300px;
     width: 30%;
-    font-size: 58px;
-    font-family: sans-serif;
-    font-weight: bold;
+    font-size: 65px;
+
+    /* font-family: sans-serif; */
+    /* font-weight: bold; */
 }
 .image{
     width: 32%;
@@ -21,10 +22,11 @@
    border-radius: 50%;
 }
 .description{
+    /* margin-left: 50px; */
     height: 500px;
-   width: 30%;
-    font-size: 28px;
-    font-family: sans-serif;
+   width: 35%;
+   font-size: 25px;
+   font-weight: 100;
 }
 
 .exp-project{
